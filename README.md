@@ -1,6 +1,10 @@
 # news_title_generation
 Comparison of News Title Generation with LSTM, LSTM Encoder-Decoder and Transformer
 
+# Training Configuration
+Total Dataset: 2876 records <br/>
+Epoch: 50
+
 # Performance Comparison
 ![Sample Result](https://github.com/JBRonaldHandiwinata/news_title_generation/blob/master/blob/result_generation.png?raw=true)
 
