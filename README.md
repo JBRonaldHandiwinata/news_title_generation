@@ -6,13 +6,17 @@ Total Dataset: 2876 records <br/>
 Epoch: 50
 
 # Performance Comparison
+### Sample Result
 ![Sample Result](https://github.com/JBRonaldHandiwinata/news_title_generation/blob/master/blob/result_generation.png?raw=true)
 
 # Training and Inferencing Time
+### LSTM
 ![LSTM](https://github.com/JBRonaldHandiwinata/news_title_generation/blob/master/blob/LSTM_training_inferencing.png?raw=true)
 
+### LSTM with Attention
 ![LSTM-Attention](https://github.com/JBRonaldHandiwinata/news_title_generation/blob/master/blob/LSTM-Attention_training_inferencing.png?raw=true)
 
+### Transformer
 ![Transformer](https://github.com/JBRonaldHandiwinata/news_title_generation/blob/master/blob/transformer_training_inferencing.png?raw=true)
 
 # BLEU score
